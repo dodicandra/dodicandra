@@ -1,6 +1,8 @@
 # Hi there, i'm dodi candra 👋
 
-i'm indonesian guy 🤙
+<p style="color:#9700c8; font-size:18px" >i'm indonesian guy 🤙</p>
+
+<hr>
 
 <!--
 **dodicandra/dodicandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,8 +35,11 @@ Here are some ideas to get you started:
   <img alt="nodejs"  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
+<hr>
+
 ### Find me on:
 
 <p>
 <a href="https://www.linkedin.com/in/dodi-candra-267867195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/cekkidot"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>

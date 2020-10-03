@@ -1,4 +1,5 @@
 # Hi there, i'm dodi candra 👋
+
 i'm indoensia guy 🤙
 
 <!--
@@ -18,13 +19,22 @@ Here are some ideas to get you started:
 
 ### Tools & Technologies :
 
-[<img style="margin:6px" src="https://camo.githubusercontent.com/0b2d926ba43e541cb95527b13c901a0cf5ec36f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" />]()
-[<img  style="margin:6px" src="https://camo.githubusercontent.com/1b954481dbca1317c021c674d7dcfe2e3d225c67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />]()
-[<img  style="margin:6px" src="https://camo.githubusercontent.com/83ae88a85d447498acd3f4f543ebe03d467c016d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" />]()
-[<img  style="margin:6px" src="https://camo.githubusercontent.com/d95661ab36c796ddc7c4daa734afd9f571cbf914/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" />]()
-[<img  style="margin:6px" src="https://camo.githubusercontent.com/1ab9d4d4238b970dc8298692681ae051f4877cbf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c65645f436f6d706f6e656e74732d6462373039323f7374796c653d666f722d7468652d6261646765266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" />]()
-[<img  style="margin:6px" src="https://camo.githubusercontent.com/9a991a8103d8682f92183baf6fc3acd5ae35020f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" />]()
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+
+  <img  alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <img  alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+  <img  alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+
+  <img  alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" />
+
+  <img alt="nodejs"  src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 ### Find me on:
 
-[<img target="_blank" align="left" alt="dodicandra | LinkedIn" src="https://camo.githubusercontent.com/96683fb94f1925109397c012fc649ae7936a7b4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="margin-right:20px;" />](https://www.linkedin.com/in/dodi-candra-267867195/)
+<p>
+<a href="https://www.linkedin.com/in/dodi-candra-267867195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>

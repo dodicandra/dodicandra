@@ -1,6 +1,6 @@
 # Hi there, i'm dodi candra 👋
 
-i'm indoensia guy 🤙
+i'm indonesian guy 🤙
 
 <!--
 **dodicandra/dodicandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

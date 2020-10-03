@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tools & Technologies :
+### Things I'm working with
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Find me on:
+### Find me on
 
 <p>
 <a href="https://www.linkedin.com/in/dodi-candra-267867195/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

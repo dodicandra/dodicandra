@@ -1,9 +1,4 @@
-# Hi there, i'm dodi candra 👋
-
-<p style="color:#9700c8; font-size:18px" >i'm indonesian guy 🤙</p>
-
-<hr>
-
+# Hi there, welcome on my repo 👋
 <!--
 **dodicandra/dodicandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
